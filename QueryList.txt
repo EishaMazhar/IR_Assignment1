@@ -69,3 +69,6 @@ develop solutions /1
 
 keep out /2
 {'20', '24', '39', '40', '51'}
+
+law enforcement officers
+{10, 31, 11, 27, 12}
